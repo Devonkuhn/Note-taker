@@ -1,4 +1,7 @@
 # Note-taker
  
-## deployed app
-https://still-headland-34839.herokuapp.com/
+## How to run
+
+Navigate to the develop folder 
+
+Enter node server.js
